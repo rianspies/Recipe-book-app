@@ -1,4 +1,4 @@
-const key = 'e004d7df456b47dfb405405925412c88';
+const key = "YOUR_API_KEY_HERE";
 const url = `https://api.spoonacular.com/recipes/random?number=10&apiKey=${key}`;
 
 
